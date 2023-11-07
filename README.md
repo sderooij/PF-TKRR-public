@@ -1,2 +1,2 @@
-# PF-TKRR-public
+# PF-TKRR
 Patient-Finetuned Seizure Detection using Tensor Kernel Ridge Regression
