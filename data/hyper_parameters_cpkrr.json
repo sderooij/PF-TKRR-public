@@ -1,0 +1,8 @@
+{
+    "feature_map": ["rbf"],
+    "map_param": [0.4],
+    "reg_par": [1e-3, 1e-4, 1e-5],
+    "M": [35],
+    "max_rank": [25],
+    "num_sweeps": [10]
+}

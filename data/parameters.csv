@@ -1,0 +1,2 @@
+channels,Fs,min_freq,max_freq,notch_freq,window_time,bckg_overlap,seiz_overlap,min_amplitude,max_amplitude
+T1;T2,250,0.1,50,50,2,0,0.5,11,150

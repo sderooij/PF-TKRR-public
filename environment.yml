@@ -1,0 +1,11 @@
+name: seizure_env
+channels:
+  - defaults
+dependencies:
+  - python==3.8
+  - numpy
+  - jupyter
+  - pytest
+  - pandas
+  - matplotlib
+  - pyarrow
