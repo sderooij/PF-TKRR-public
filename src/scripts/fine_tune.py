@@ -33,7 +33,7 @@ from tensorlibrary.learning.t_krr import CPKRR
 import seizure_data_processing as sdp
 import importlib
 
-importlib.import_module("src/scripts/5_classification.py", package=None) # import main
+importlib.import_module("src/scripts/classification.py", package=None) # import main
 
 
 def patient_fine_tune(model, num_sweeps=1, max_iter=np.infty):
